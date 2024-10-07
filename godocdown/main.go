@@ -1,7 +1,7 @@
 /*
 Command godocdown generates Go documentation in a GitHub-friendly Markdown format.
 
-    $ go get github.com/robertkrimen/godocdown/godocdown                         
+    $ go install github.com/robertkrimen/godocdown/godocdown@latest                       
                                                                                  
     $ godocdown /path/to/package > README.markdown                               
                                                                                  
@@ -17,7 +17,7 @@ default. This can be changed with the use of the "plain" flag to generate standa
 
 Install
 
-    go get github.com/robertkrimen/godocdown/godocdown
+    go install github.com/robertkrimen/godocdown/godocdown@latest
 
 Example
 
